@@ -1,0 +1,6 @@
+== Validations Demo
+
+This project is a simple CRUD app with no validations. It is meant to be a demonstration of how to add validations.
+
+To use, fork to your own Github account and make any changes from that repository.
+
